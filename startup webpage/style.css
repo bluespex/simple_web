@@ -1,0 +1,27 @@
+body{
+	font-family: 'Montserrat', italic;
+}
+
+
+.card-img-overlay {
+	text-align: center;
+	color: rgba(40, 93, 105, 1);
+	font-size: 2em;
+	position: absolute;
+	top: 280px;
+	font-weight: bold;
+}
+
+h1{
+	color: rgb(39, 111, 93);
+	font-size: 2em;
+
+}
+
+.btn-dark {
+	color: rgb(255, 229, 103);
+	font-size: 75%;
+	position:relative;
+	top: 100px;
+}
+
